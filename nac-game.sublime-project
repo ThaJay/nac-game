@@ -4,7 +4,9 @@
 			"path": "."
     , "folder_exclude_patterns": ["node_modules", "build"]
     , "file_exclude_patterns": [
-        "webpack.config.js"
+        ".gitignore"
+      , "readme.md"
+      , "webpack.config.js"
       , "package.json"
       , "nac-game.sublime-project"
       ]
